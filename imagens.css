@@ -1,0 +1,10 @@
+section {
+    background-color: green;
+}
+.conteiner{
+    background-color: rosybrown;
+    display: flex;
+}
+.img{
+    background-color:white;
+}
